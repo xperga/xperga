@@ -1,7 +1,5 @@
 <h1 align="center"> ✨ Welcome on my profile ✨ </h1>
 
-<img width=35% align="right" src="https://c.tenor.com/oda0RMrpJlcAAAAd/anime-sip.gif"></img>
-
 ## About me:
 
 Novice programmer here. I'm creating programs based on my newly acquired knowledge. Currently I am interested in  ```Cybersecurity``` .
